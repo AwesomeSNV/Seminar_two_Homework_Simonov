@@ -1,0 +1,15 @@
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\С#seminar 2 Homework\obj\Debug\net6.0\С#seminar 2 Homework.csproj.AssemblyReference.cache
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\С#seminar 2 Homework\obj\Debug\net6.0\С#seminar 2 Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\С#seminar 2 Homework\obj\Debug\net6.0\С#seminar 2 Homework.AssemblyInfoInputs.cache
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\С#seminar 2 Homework\obj\Debug\net6.0\С#seminar 2 Homework.AssemblyInfo.cs
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\С#seminar 2 Homework\obj\Debug\net6.0\С#seminar 2 Homework.csproj.CoreCompileInputs.cache
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\С#seminar 2 Homework\bin\Debug\net6.0\С#seminar 2 Homework.exe
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\С#seminar 2 Homework\bin\Debug\net6.0\С#seminar 2 Homework.deps.json
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\С#seminar 2 Homework\bin\Debug\net6.0\С#seminar 2 Homework.runtimeconfig.json
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\С#seminar 2 Homework\bin\Debug\net6.0\С#seminar 2 Homework.dll
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\С#seminar 2 Homework\bin\Debug\net6.0\С#seminar 2 Homework.pdb
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\С#seminar 2 Homework\obj\Debug\net6.0\С#seminar 2 Homework.dll
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\С#seminar 2 Homework\obj\Debug\net6.0\refint\С#seminar 2 Homework.dll
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\С#seminar 2 Homework\obj\Debug\net6.0\С#seminar 2 Homework.pdb
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\С#seminar 2 Homework\obj\Debug\net6.0\С#seminar 2 Homework.genruntimeconfig.cache
+C:\Users\snv\Desktop\ГикБрейнз\С# Обучение\С#seminar 2 Homework\obj\Debug\net6.0\ref\С#seminar 2 Homework.dll
